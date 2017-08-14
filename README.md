@@ -82,7 +82,7 @@ Please do not make user-facing tools to search the list or cross-reference it wi
 You will make users lose trust in many sites, despite there being less than a 1 in a million chance of them having data leaked.
 
 ## Notable Sites
-
+[offersagar.com] http://www.offersagar.com/
 - [authy.com](http://authy.com) ([no leaked data found in several search engine caches](https://www.authy.com/blog/security-notice-authy-response-to-cloudflare-cloudbleed-incident/))
 - [coinbase.com](http://coinbase.com)
 - [bitcoin.de](http://bitcoin.de)
